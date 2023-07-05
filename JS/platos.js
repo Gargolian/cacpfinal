@@ -56,7 +56,7 @@ createApp({
                 .then(function () {
                     alert("Registro grabado")
                     console.log(options)
-                    window.location.href = "../templates/platos.html";
+                    window.location.href = "../templates/carta.html";
                 })
                 .catch(err => {
                     console.error(err);
