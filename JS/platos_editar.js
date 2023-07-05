@@ -47,7 +47,7 @@ createApp({
             fetch(this.url, options)
                 .then(function () {
                     alert("Registro modificado")
-                    window.location.href = "../templates/platos.html";
+                    window.location.href = "../templates/carta.html";
                 })
                 .catch(err => {
                     console.error(err);
