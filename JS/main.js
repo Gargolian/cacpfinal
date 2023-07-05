@@ -15,16 +15,16 @@ document.getElementById("header").innerHTML = `
         <nav class="header__nav">
             <ul id="header__list">
                 <li class="header__item">
-                    <a class="header__link js-scroll" href="../index.html">Inicio</a>
+                    <a class="header__link js-scroll" href="/cacpfinal/index.html">Inicio</a>
                 </li>
                 <li class="header__item">
-                    <a class="header__link js-scroll" href="../quienes.html">Quienes Somos</a>
+                    <a class="header__link js-scroll" href="/cacpfinal/quienes.html">Quienes Somos</a>
                 </li>
                 <li class="header__item">
-                    <a class="header__link js-scroll" href="../templates/carta.html">Carta</a>
+                    <a class="header__link js-scroll" href="/cacpfinal/templates/carta.html">Carta</a>
                 </li>
                 <li class="header__item">
-                    <a class="header__link js-scroll" href="../contacto.html">Contacto</a>
+                    <a class="header__link js-scroll" href="/cacpfinal/contacto.html">Contacto</a>
                 </li>
                 <li class="header__item">
                     <!-- Falta agregar HTML o link para pedidos -->
@@ -46,16 +46,16 @@ document.getElementById("header").innerHTML = `
             <nav class="header_nav">
                 <ul class="header_list">
                     <li class="header_item">
-                        <a class="header_link js-scroll" href="../index.html">Inicio</a>
+                        <a class="header_link js-scroll" href="/cacpfinal/index.html">Inicio</a>
                     </li>
                     <li class="header_item">
-                        <a class="header_link js-scroll" href="../quienes.html">Quienes Somos</a>
+                        <a class="header_link js-scroll" href="/cacpfinal/quienes.html">Quienes Somos</a>
                     </li>
                     <li class="header_item">
-                        <a class="header_link js-scroll" href="../templates/carta.html">Carta</a>
+                        <a class="header_link js-scroll" href="/cacpfinal/templates/carta.html">Carta</a>
                     </li>
                     <li class="header_item">
-                        <a class="header_link js-scroll" href="../contacto.html">Contacto</a>
+                        <a class="header_link js-scroll" href="/cacpfinal/contacto.html">Contacto</a>
                     </li>
                     <li class="header_item">
                         <a class="header_link js-scroll"
