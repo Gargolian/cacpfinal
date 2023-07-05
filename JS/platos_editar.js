@@ -10,7 +10,7 @@ createApp({
             imagen: "",
             descrip: "",
             precio: 0,
-            url: 'http://refusilo.pythonanywhere.com/platos/' + id,
+            url: 'https://refusilo.pythonanywhere.com/platos/' + id,
                     }
     },
     methods: {

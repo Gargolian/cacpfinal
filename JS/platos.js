@@ -3,7 +3,7 @@ createApp({
     data() {
         return {
             platos: [],
-            url: 'http://refusilo.pythonanywhere.com/platos',
+            url: 'https://refusilo.pythonanywhere.com/platos',
             // si el backend esta corriendo local usar localhost 5000(si no lo subieron a pythonanywhere)
             error: false,
             cargando: true,
